@@ -4,6 +4,8 @@ payload:
   # USER-AGENT,*youtube*
   - PROCESS-NAME,com.amazon.firetv.youtube
   - DOMAIN-SUFFIX,youtu.be
+  - DOMAIN-SUFFIX,gvt2.com
+  - DOMAIN-SUFFIX,ytimg.com
   - DOMAIN-SUFFIX,googlevideo.com
   - DOMAIN,youtubei.googleapis.com
   - DOMAIN-KEYWORD,youtube
