@@ -8,6 +8,8 @@ payload:
   - DOMAIN-SUFFIX,nflximg.net
   - DOMAIN-SUFFIX,nflxso.net
   - DOMAIN-SUFFIX,nflxvideo.net
+  - DOMAIN-SUFFIX,nflxsearch.net
+  - DOMAIN-KEYWORD,apiproxy-device
   - DOMAIN-KEYWORD,netflixdnstest
   - DOMAIN-KEYWORD,dualstack.apiproxy-
   - DOMAIN-KEYWORD,dualstack.ichnaea-web-
