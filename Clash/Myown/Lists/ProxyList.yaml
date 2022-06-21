@@ -18,6 +18,12 @@ payload:
   - DOMAIN-SUFFIX,app.link
   - DOMAIN-SUFFIX,branch.io
   - DOMAIN-SUFFIX,jsdelivr.net
+  - DOMAIN-SUFFIX,zoom.us
+  - IP-CIDR,170.114.0.0/16
+  - DOMAIN-SUFFIX,charliemonroe.net
+  - DOMAIN-SUFFIX,downiestatistics.com
+  - DOMAIN-SUFFIX,fullfocus.co
+  - DOMAIN-SUFFIX,lightroomkillertips.com
 # ifeng
   - DOMAIN-SUFFIX,fengedu.com
   - DOMAIN-SUFFIX,fengzhibo.com.cn
@@ -194,6 +200,9 @@ payload:
   - DOMAIN-SUFFIX,notion.new
   - DOMAIN-SUFFIX,notion.site
   - DOMAIN-SUFFIX,notion.so
+  - DOMAIN-SUFFIX,intercom.io
+  - DOMAIN-SUFFIX,istatsig.com
+  - IP-CIDR,172.64.154.162/32
 # Google
   - DOMAIN,www.googleapis.com
   - DOMAIN-SUFFIX,docs.google.com

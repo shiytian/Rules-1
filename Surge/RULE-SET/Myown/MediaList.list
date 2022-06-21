@@ -97,6 +97,7 @@ DOMAIN-SUFFIX,spotifyforbrands.com
 DOMAIN-SUFFIX,spotifyjobs.com
 DOMAIN-KEYWORD,-spotify-com
 DOMAIN-KEYWORD,spotify.com
+IP-CIDR,104.199.240.237/32
 IP-CIDR,35.186.224.47/32,no-resolve
 # > DAZN
 # USER-AGENT,DAZN*
