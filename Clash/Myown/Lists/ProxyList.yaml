@@ -194,8 +194,6 @@ payload:
   - DOMAIN-SUFFIX,googledrive.com
   - DOMAIN-SUFFIX,googleusercontent.com
   - PROCESS-NAME,backupandsync
-
-  - DOMAIN-KEYWORD,www.google.
   - DOMAIN,lens.l.google.com
   - DOMAIN-KEYWORD,blogspot
   - DOMAIN-KEYWORD,appspot
@@ -697,7 +695,7 @@ payload:
 
 # RARBG
   - DOMAIN-SUFFIX,dyncdn.me
-  - DOMAIN-SUFFIXrarbg.org
+  - DOMAIN-SUFFIX,rarbg.org
   - DOMAIN-SUFFIX,rarbg.bypassed.org
   - DOMAIN-SUFFIX,rarbg.is
   - DOMAIN-SUFFIX,rarbg.link
