@@ -1,6 +1,6 @@
 # Telegram, Paypal, Notion, Google, Github, Dropbox, IMDB, lastfm, Mega, Potato, Python, ubuntu, RARBG
 # Reddit, Twitter, VOA, Whatapp, wordpress, Tumblr, sourceforge, salesforce, pivix, pinterest, ESPN
-# oreil, nytimes, nypost, NBC, Line, imgur, Docker, CNN, bloomberg, 9to5mac, Facebook, discord， IFeng
+# oreil, nytimes, nypost, NBC, Line, imgur, Docker, CNN, bloomberg, 9to5mac, Facebook, discord, IFeng
 # DIY
 DOMAIN-SUFFIX,bitwarden.com
 DOMAIN-SUFFIX,adobe.com
@@ -230,17 +230,17 @@ DOMAIN-SUFFIX,googlevideo.com
 DOMAIN,youtubei.googleapis.com
 DOMAIN-KEYWORD,youtube
 
-  # > YouTube
-  # USER-AGENT,*YouTube*
-  # USER-AGENT,*youtube*
-  #- PROCESS-NAME,com.amazon.firetv.youtube
-  #- DOMAIN-SUFFIX,youtu.be
-  #- DOMAIN-SUFFIX,gvt2.com
-  #- DOMAIN-SUFFIX,ytimg.com
-  #- DOMAIN-SUFFIX,googlevideo.com
-  #- DOMAIN,youtubei.googleapis.com
-  #- DOMAIN-KEYWORD,youtube
-  # > Google Play 修正
+# > YouTube
+# USER-AGENT,*YouTube*
+# USER-AGENT,*youtube*
+#- PROCESS-NAME,com.amazon.firetv.youtube
+#- DOMAIN-SUFFIX,youtu.be
+#- DOMAIN-SUFFIX,gvt2.com
+#- DOMAIN-SUFFIX,ytimg.com
+#- DOMAIN-SUFFIX,googlevideo.com
+#- DOMAIN,youtubei.googleapis.com
+#- DOMAIN-KEYWORD,youtube
+# > Google Play 修正
 DOMAIN,android.clients.google.com
 DOMAIN,connectivitycheck.gstatic.com
 
