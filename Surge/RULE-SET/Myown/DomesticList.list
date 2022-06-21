@@ -19,6 +19,7 @@ DOMAIN-SUFFIX,ifaa.org.cn
 DOMAIN-SUFFIX,sinopayment.com.cn
 # Alibaba
 DOMAIN-KEYWORD,aliapp
+DOMAIN-KEYWORD,alicdn
 DOMAIN-KEYWORD,alibaba  
 DOMAIN-KEYWORD,alicloud  
 DOMAIN-KEYWORD,alidns
