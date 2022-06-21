@@ -198,49 +198,49 @@ payload:
   - DOMAIN-SUFFIX,youtubecisco.com
 
 # Microsoft
-- DOMAIN-KEYWORD,microsoft
-- DOMAIN-KEYWORD,onedrive
-- DOMAIN-KEYWORD,office365
-- DOMAIN-SUFFIX,outlook.office365.com
-- DOMAIN-SUFFIX,onmicrosoft.com
-- DOMAIN-SUFFIX,officeapps.live.com
-- DOMAIN-SUFFIX,teams.microsoft.com
-- DOMAIN-SUFFIX,osi.office.net
-- DOMAIN-SUFFIX,substrate.office.com
-- DOMAIN-SUFFIX,aria.microsoft.com
-- DOMAIN-SUFFIX,onmicrosoft.com
-- DOMAIN-SUFFIX,azurewebsites.net
-- DOMAIN-SUFFIX,hotmail.com
-- DOMAIN-SUFFIX,live.com
-- DOMAIN-SUFFIX,live.cn
-- DOMAIN-SUFFIX,live.net
-- DOMAIN-SUFFIX,msn.com
-- DOMAIN-SUFFIX,office.com
-- DOMAIN-SUFFIX,office.net
-- DOMAIN-SUFFIX,office365.com
-- DOMAIN-SUFFIX,outlook.com
-- DOMAIN-SUFFIX,onenote.com
-- DOMAIN-SUFFIX,onedrive.com
-- DOMAIN-SUFFIX,msftconnecttest.com
-- DOMAIN-SUFFIX,azure.com
-- DOMAIN-SUFFIX,fabric.io
-- DOMAIN-SUFFIX,files.1drv.com
-- DOMAIN-SUFFIX,livefilestore.com
-- DOMAIN-SUFFIX,mesh.com
-- DOMAIN-SUFFIX,microsoftonline.com
-- DOMAIN-SUFFIX,microsoft-tst.com
-- DOMAIN-SUFFIX,p.sfx.ms
-- DOMAIN-SUFFIX,sharepoint.com
-- DOMAIN-SUFFIX,spoprod-a.akamaihd.net
-- DOMAIN-SUFFIX,storage.msn.com
-- DOMAIN-SUFFIX,windows.net
-- DOMAIN-SUFFIX,windows.com
-- DOMAIN-SUFFIX,xbox.com
-- DOMAIN-SUFFIX,xboxlive.com
+  - DOMAIN-KEYWORD,microsoft
+  - DOMAIN-KEYWORD,onedrive
+  - DOMAIN-KEYWORD,office365
+  - DOMAIN-SUFFIX,outlook.office365.com
+  - DOMAIN-SUFFIX,onmicrosoft.com
+  - DOMAIN-SUFFIX,officeapps.live.com
+  - DOMAIN-SUFFIX,teams.microsoft.com
+  - DOMAIN-SUFFIX,osi.office.net
+  - DOMAIN-SUFFIX,substrate.office.com
+  - DOMAIN-SUFFIX,aria.microsoft.com
+  - DOMAIN-SUFFIX,onmicrosoft.com
+  - DOMAIN-SUFFIX,azurewebsites.net
+  - DOMAIN-SUFFIX,hotmail.com
+  - DOMAIN-SUFFIX,live.com
+  - DOMAIN-SUFFIX,live.cn
+  - DOMAIN-SUFFIX,live.net
+  - DOMAIN-SUFFIX,msn.com
+  - DOMAIN-SUFFIX,office.com
+  - DOMAIN-SUFFIX,office.net
+  - DOMAIN-SUFFIX,office365.com
+  - DOMAIN-SUFFIX,outlook.com
+  - DOMAIN-SUFFIX,onenote.com
+  - DOMAIN-SUFFIX,onedrive.com
+  - DOMAIN-SUFFIX,msftconnecttest.com
+  - DOMAIN-SUFFIX,azure.com
+  - DOMAIN-SUFFIX,fabric.io
+  - DOMAIN-SUFFIX,files.1drv.com
+  - DOMAIN-SUFFIX,livefilestore.com
+  - DOMAIN-SUFFIX,mesh.com
+  - DOMAIN-SUFFIX,microsoftonline.com
+  - DOMAIN-SUFFIX,microsoft-tst.com
+  - DOMAIN-SUFFIX,p.sfx.ms
+  - DOMAIN-SUFFIX,sharepoint.com
+  - DOMAIN-SUFFIX,spoprod-a.akamaihd.net
+  - DOMAIN-SUFFIX,storage.msn.com
+  - DOMAIN-SUFFIX,windows.net
+  - DOMAIN-SUFFIX,windows.com
+  - DOMAIN-SUFFIX,xbox.com
+  - DOMAIN-SUFFIX,xboxlive.com
 
-- DOMAIN-SUFFIX,bing.com
-- DOMAIN-SUFFIX,bing.cn
-- DOMAIN-SUFFIX,skype.com
+  - DOMAIN-SUFFIX,bing.com
+  - DOMAIN-SUFFIX,bing.cn
+  - DOMAIN-SUFFIX,skype.com
 
 # Origin
   - DOMAIN,cloudsync-prod.s3.amazonaws.com
