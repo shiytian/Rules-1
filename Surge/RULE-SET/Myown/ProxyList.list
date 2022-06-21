@@ -201,8 +201,10 @@ DOMAIN-SUFFIX,notion.new
 DOMAIN-SUFFIX,notion.site
 DOMAIN-SUFFIX,notion.so
 DOMAIN-SUFFIX,intercom.io
-DOMAIN-SUFFIX,istatsig.com
+DOMAIN-SUFFIX,statsig.com
+DOMAIN-SUFFIX,unsplash.com
 IP-CIDR,172.64.154.162/32
+IP-CIDR,104.18.33.94/32
 # Google
 USER-AGENT,%E4%BA%91%E7%AB%AF%E7%A1%AC%E7%9B%98*
 USER-AGENT,*com.google.Drive*

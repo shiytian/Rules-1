@@ -246,6 +246,7 @@ payload:
   - DOMAIN-SUFFIX,visualstudio.com
   - DOMAIN-SUFFIX,vscodeexperiments.azureedge.net
   - DOMAIN-SUFFIX,exp-tas.com
+  - DOMAIN-SUFFIX,msecnd.net
 
 
 # Origin

@@ -201,8 +201,10 @@ payload:
   - DOMAIN-SUFFIX,notion.site
   - DOMAIN-SUFFIX,notion.so
   - DOMAIN-SUFFIX,intercom.io
-  - DOMAIN-SUFFIX,istatsig.com
+  - DOMAIN-SUFFIX,statsig.com
+  - DOMAIN-SUFFIX,unsplash.com
   - IP-CIDR,172.64.154.162/32
+  - IP-CIDR,104.18.33.94/32
 # Google
   - DOMAIN,www.googleapis.com
   - DOMAIN-SUFFIX,docs.google.com
