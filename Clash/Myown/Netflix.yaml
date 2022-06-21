@@ -1,5 +1,8 @@
 payload:
   # > Netflix
+  - DOMAIN,api.fast.com
+  - DOMAIN,netflix.com.edgesuite.net
+  - DOMAIN-SUFFIX,fast.com
   - PROCESS-NAME,com.netflix.mediaclient
   - DOMAIN-SUFFIX,netflix.com
   - DOMAIN-SUFFIX,netflix.net
