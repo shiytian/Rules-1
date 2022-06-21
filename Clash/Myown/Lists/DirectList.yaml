@@ -8,6 +8,7 @@ payload:
   - DOMAIN-KEYWORD,plex
   - DOMAIN-KEYWORD,kugou
   - DOMAIN-KEYWORD,lyricsify
+  - DOMAIN-SUFFIX,digicert.com
 #Apple
   - DOMAIN-SUFFIX,osxapps.itunes.apple.com
   - DOMAIN-SUFFIX,iosapps.itunes.apple.com
@@ -240,7 +241,11 @@ payload:
 
   - DOMAIN-SUFFIX,bing.com
   - DOMAIN-SUFFIX,bing.cn
+  - DOMAIN-SUFFIX,bing.net
   - DOMAIN-SUFFIX,skype.com
+  - DOMAIN-SUFFIX,visualstudio.com
+  - DOMAIN-SUFFIX,vscodeexperiments.azureedge.net
+
 
 # Origin
   - DOMAIN,cloudsync-prod.s3.amazonaws.com

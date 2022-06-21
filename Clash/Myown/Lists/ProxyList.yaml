@@ -11,6 +11,13 @@ payload:
   - DOMAIN-SUFFIX,vimeo.com
   - DOMAIN-SUFFIX,vimeocdn.com
   - DOMAIN-SUFFIX,v2ex.com
+  - DOMAIN-SUFFIX,split.io
+  - DOMAIN-SUFFIX,termius.com
+  - DOMAIN-SUFFIX,braze.com
+  - DOMAIN-SUFFIX,nr-data.net
+  - DOMAIN-SUFFIX,app.link
+  - DOMAIN-SUFFIX,branch.io
+  - DOMAIN-SUFFIX,jsdelivr.net
 # ifeng
   - DOMAIN-SUFFIX,fengedu.com
   - DOMAIN-SUFFIX,fengzhibo.com.cn
