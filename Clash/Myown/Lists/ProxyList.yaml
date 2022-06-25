@@ -24,6 +24,17 @@ payload:
   - DOMAIN-SUFFIX,downiestatistics.com
   - DOMAIN-SUFFIX,fullfocus.co
   - DOMAIN-SUFFIX,lightroomkillertips.com
+# Nvidia
+  - DOMAIN-KEYWORD,geforce
+  - DOMAIN-KEYWORD,gputechconf
+  - DOMAIN-KEYWORD,nvidia.
+  - DOMAIN-KEYWORD,tegrazone.
+  - DOMAIN-KEYWORD,nvidia
+  - DOMAIN-KEYWORD,shieldandroidtv
+  - DOMAIN-SUFFIX,nvda.d2.sc.omtrdc.net
+  - DOMAIN-SUFFIX,nvidiaforhp.com
+  - DOMAIN-SUFFIX,nvidiagrid.net
+  - DOMAIN-SUFFIX,shotwithgeforce.com
 # ifeng
   - DOMAIN-SUFFIX,fengedu.com
   - DOMAIN-SUFFIX,fengzhibo.com.cn
