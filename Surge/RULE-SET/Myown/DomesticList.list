@@ -892,6 +892,7 @@ USER-AGENT,QQ%E9%9F%B3%E4%B9%90
 USER-AGENT,TencentMidasConnect*
 USER-AGENT,live4iphone*
 USER-AGENT,qqlive4iphone*
+USER-AGENT,MicroMessenger*
 USER-AGENT,MOO*
 USER-AGENT,TencentMidasConnect*
 DOMAIN-SUFFIX,mfm.video.qq.com
