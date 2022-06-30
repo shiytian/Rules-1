@@ -205,6 +205,8 @@ DOMAIN-SUFFIX,xoom.io
 DOMAIN-SUFFIX,xoom.net.cn
 DOMAIN-SUFFIX,xoom.us
 DOMAIN-SUFFIX,xoomcom.com
+DOMAIN-SUFFIX,adjust.net.in
+DOMAIN-SUFFIX,honey.io
 # Notion
 DOMAIN-SUFFIX,notion-static.com
 DOMAIN-SUFFIX,notion.com
@@ -214,6 +216,8 @@ DOMAIN-SUFFIX,notion.so
 DOMAIN-SUFFIX,intercom.io
 DOMAIN-SUFFIX,statsig.com
 DOMAIN-SUFFIX,unsplash.com
+DOMAIN-SUFFIX,api.revenuecat.com
+DOMAIN-SUFFIX,loggly.com
 IP-CIDR,172.64.154.162/32
 IP-CIDR,104.18.33.94/32
 # Google

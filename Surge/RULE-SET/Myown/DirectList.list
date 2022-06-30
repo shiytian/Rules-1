@@ -3,7 +3,14 @@
 DOMAIN-SUFFIX,shiytian.top
 DOMAIN-SUFFIX,weixin.qq.com
 DOMAIN-SUFFIX,plex.tv
+DOMAIN-SUFFIX,plex.direct
 DOMAIN-SUFFIX,ozan.com
+DOMAIN-SUFFIX,transferwise.com
+DOMAIN-SUFFIX,wise.com
+DOMAIN-SUFFIX,tech26.de
+DOMAIN-SUFFIX,number26.de
+DOMAIN-SUFFIX,n26.com
+DOMAIN-SUFFIX,ctfassets.net
 DOMAIN-KEYWORD,plex
 DOMAIN-KEYWORD,kugou
 DOMAIN-KEYWORD,lyricsify
@@ -97,6 +104,7 @@ DOMAIN-SUFFIX,safebrowsing.apple
 DOMAIN-SUFFIX,store.apple.com.edgekey.net
 DOMAIN-SUFFIX,www.apple.com.edgekey.net
 DOMAIN-SUFFIX,wwwicloud.com
+DOMAIN-SUFFIX,apple.news
 
 # Blizzard
 DOMAIN-SUFFIX,battle.net
