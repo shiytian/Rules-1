@@ -421,6 +421,7 @@ payload:
   - DOMAIN-KEYWORD,announce
   - DOMAIN-KEYWORD,torrent
   - DOMAIN-KEYWORD,tracker
+  - PROCESS-NAME,transmission-daemon
 
 # Steam
   - DOMAIN,csgo.wmsj.cn
