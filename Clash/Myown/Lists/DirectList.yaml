@@ -163,6 +163,8 @@ payload:
   - IP-CIDR,54.207.107.12/32,no-resolve
   - IP-CIDR,54.94.196.47/32,no-resolve
 # Cisco
+  - PROCESS-NAME,WebexHelper
+  - PROCESS-NAME,Code42Service
   - DOMAIN-KEYWORD,cisco
   - DOMAIN-KEYWORD,webex
   - DOMAIN-SUFFIX,cisco.com
