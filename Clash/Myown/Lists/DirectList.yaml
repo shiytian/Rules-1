@@ -424,6 +424,7 @@ payload:
   - DOMAIN-KEYWORD,torrent
   - DOMAIN-KEYWORD,tracker
   - PROCESS-NAME,transmission-daemon
+  - PROCESS-NAME,qbittorrent-nox
 
 # Steam
   - DOMAIN,csgo.wmsj.cn
