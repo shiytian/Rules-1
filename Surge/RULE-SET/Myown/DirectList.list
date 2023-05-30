@@ -25,6 +25,7 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,com.apple.tv*
 PROCESS-NAME,com.apple.geod
 PROCESS-NAME,lookupviewservice
+PROCESS-NAME,Music
 PROCESS-NAME,music
 PROCESS-NAME,news
 PROCESS-NAME,storedownloadd
