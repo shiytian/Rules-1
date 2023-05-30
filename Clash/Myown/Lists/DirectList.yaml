@@ -24,6 +24,7 @@ payload:
   - DOMAIN-KEYWORD,icoudo
   - DOMAIN-KEYWORD,icoudos
   - DOMAIN-KEYWORD,testflight
+  - PROCESS-NAME,Music
 
   - DOMAIN-SUFFIX,osxapps.itunes.apple.com
   - DOMAIN-SUFFIX,iosapps.itunes.apple.com
