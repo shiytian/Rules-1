@@ -1,6 +1,7 @@
 # Apple, Blizzard, Cisco, Microsoft, origin, PT, Steam
 # DIY
 DOMAIN-SUFFIX,shiytian.top
+DOMAIN-SUFFIX,shiytian.tech
 DOMAIN-SUFFIX,weixin.qq.com
 DOMAIN-SUFFIX,plex.tv
 DOMAIN-SUFFIX,plex.direct
@@ -11,7 +12,6 @@ DOMAIN-SUFFIX,tech26.de
 DOMAIN-SUFFIX,number26.de
 DOMAIN-SUFFIX,n26.com
 DOMAIN-SUFFIX,ctfassets.net
-DOMAIN-KEYWORD,plex
 DOMAIN-KEYWORD,kugou
 DOMAIN-KEYWORD,lyricsify
 DOMAIN-SUFFIX,digicert.com

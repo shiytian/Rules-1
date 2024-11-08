@@ -18,8 +18,64 @@ DOMAIN,dkfhw9rzsr80z.cloudfront.net
 USER-AGENT,friDay*
 DOMAIN-SUFFIX,friday.tw
 DOMAIN-SUFFIX,fridaylogger.com
+DOMAIN-SUFFIX,svc.litv.tv
 DOMAIN,aka01p.akamaized.net
 DOMAIN,aka02p.akamaized.net
+DOMAIN,aka36p.akamaized.net
+
+# > HBO GO Asia
+// USER-AGENT,HBO%20GO%20PROD*
+// DOMAIN-KEYWORD,hboasia
+DOMAIN-KEYWORD,hbogoasia
+DOMAIN-SUFFIX,hboasia.com
+DOMAIN-SUFFIX,hbogoasia.com
+DOMAIN,hbolb.onwardsmg.com
+DOMAIN,hbounify-prod.evergent.com
+// DOMAIN,hbogoprod-vod.akamaized.net
+// DOMAIN,hboasialive.akamaized.net
+// DOMAIN,bcbolthboa-a.akamaihd.net
+DOMAIN,dai3fd1oh325y.cloudfront.net
+
+# > iQIYI Intl
+// USER-AGENT,iQIYI*
+// USER-AGENT,QIYIVideo*
+// USER-AGENT,QYPlayer*
+// USER-AGENT,QTP*
+PROCESS-NAME,com.iqiyi.i18n
+PROCESS-NAME,com.iqiyi.i18n.tv
+DOMAIN-SUFFIX,iq.com
+// 首页
+DOMAIN-SUFFIX,intl.iqiyi.com
+// 历史
+DOMAIN,intl-rcd.iqiyi.com
+DOMAIN,intl-im-hist-api.iqiyi.com
+// 收藏
+DOMAIN,intl-subscription.iqiyi.com
+// 播放
+DOMAIN,msg-intl.qy.net
+DOMAIN,ip.geo.iqiyi.com
+DOMAIN,akmcdnoversea.inter.iqiyi.com
+DOMAIN,akmcdnoversea.inter.ptqy.gitv.tv
+DOMAIN,chuangcachecdnoversea.inter.iqiyi.com
+DOMAIN,chuangcachecdnoversea.inter.ptqy.gitv.tv
+DOMAIN,akmcdnoversea-tw.inter.iqiyi.com
+DOMAIN,akmcdnoversea-tw.inter.ptqy.gitv.tv
+DOMAIN,chuangcachecdnoversea-tw.inter.iqiyi.com
+DOMAIN,chuangcachecdnoversea-tw.inter.ptqy.gitv.tv
+DOMAIN-KEYWORD,akmcdnoverse
+DOMAIN-KEYWORD,chuangcachecdnoversea
+IP-CIDR,2.21.22.17/32,no-resolve 
+IP-CIDR,23.40.241.251/32,no-resolve
+IP-CIDR,23.40.242.10/32,no-resolve
+IP-CIDR,23.210.215.154/32,no-resolve
+IP-CIDR,110.238.107.47/32,no-resolve
+IP-CIDR,110.238.109.184/32,no-resolve
+IP-CIDR,114.119.175.88/32,no-resolve
+IP-CIDR,118.26.32.0/22,no-resolve
+IP-CIDR,159.138.102.146/32,no-resolve
+IP-CIDR,184.25.254.178/32,no-resolve
+IP-CIDR,203.80.97.208/32,no-resolve
+IP-CIDR,203.198.80.99/32,no-resolve
 
 # > KKBOX
 USER-AGENT,*KKBOX
@@ -34,33 +90,6 @@ DOMAIN-SUFFIX,kktv.me
 DOMAIN-SUFFIX,kktv.com.tw
 DOMAIN,kktv-theater.kk.stream
 DOMAIN,theater-kktv.cdn.hinet.net
-
-# > iQIYI Intl
-USER-AGENT,iQIYI*
-USER-AGENT,QIYIVideo*
-USER-AGENT,QYPlayer*
-USER-AGENT,QTP*
-PROCESS-NAME,com.iqiyi.i18n
-PROCESS-NAME,com.iqiyi.i18n.tv
-DOMAIN-SUFFIX,iq.com
-// 首页
-DOMAIN-SUFFIX,intl.iqiyi.com
-// 历史
-DOMAIN,intl-rcd.iqiyi.com
-// 收藏
-DOMAIN,intl-subscription.iqiyi.com
-// 播放
-DOMAIN,akmcdnoversea-tw.inter.iqiyi.com
-DOMAIN,akmcdnoversea-tw.inter.ptqy.gitv.tv
-DOMAIN,chuangcachecdnoversea-tw.inter.iqiyi.com
-DOMAIN,chuangcachecdnoversea-tw.inter.ptqy.gitv.tv
-IP-CIDR,23.40.241.251/32,no-resolve
-IP-CIDR,23.40.242.10/32,no-resolve
-IP-CIDR,110.238.107.47/32,no-resolve
-IP-CIDR,118.26.32.162/32,no-resolve
-IP-CIDR,159.138.102.146/32,no-resolve
-IP-CIDR,203.80.97.208/32,no-resolve
-IP-CIDR,203.198.80.99/32,no-resolve
 
 # > LINE TV
 USER-AGENT,LINE%20TV*

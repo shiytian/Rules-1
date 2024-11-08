@@ -145,6 +145,18 @@ DOMAIN-SUFFIX,hulustream.com
 DOMAIN,cws-hulu.conviva.com
 // DOMAIN,assetshuluimcom-a.akamaihd.net
 
+# > Max
+USER-AGENT,Max*
+PROCESS-NAME,com.wbd.stream
+DOMAIN-SUFFIX,max.com
+DOMAIN-SUFFIX,discomax.com
+
+# > MGM+
+DOMAIN-SUFFIX,mgmplus.com
+DOMAIN-SUFFIX,epix.com
+DOMAIN-SUFFIX,epixnow.com
+DOMAIN,epixhls.akamaized.net
+DOMAIN,us-ore-00001.s3.dualstack.us-west-2.amazonaws.com
 
 # > Movies Anywhere
 DOMAIN-SUFFIX,moviesanywhere.com
@@ -236,6 +248,10 @@ DOMAIN,star.api.edge.bamgrid.com
 DOMAIN,star.connections.edge.bamgrid.com
 DOMAIN,star.content.edge.bamgrid.com
 DOMAIN,star.playback.edge.bamgrid.com
+
+# > TVBAnywhere
+DOMAIN-SUFFIX,tvb.com
+DOMAIN-KEYWORD,tvbanywhere
 
 # > TVer
 DOMAIN-SUFFIX,tver.jp
