@@ -25,6 +25,16 @@ payload:
   - DOMAIN-SUFFIX,fullfocus.co
   - DOMAIN-SUFFIX,lightroomkillertips.com
   - DOMAIN-KEYWORD,textnow
+  - DOMAIN-KEYWORD,massivegrid
+  - DOMAIN-KEYWORD,racknerd
+  - DOMAIN-KEYWORD,lowendtalk
+
+  - DOMAIN-SUFFIX,91porn.com
+  - DOMAIN-SUFFIX,pornhub.com
+  - DOMAIN-SUFFIX,t66y.com
+  - DOMAIN-SUFFIX,xvideos.com
+  - DOMAIN-SUFFIX,kdw019.com
+
 # Nvidia
   - DOMAIN-KEYWORD,geforce
   - DOMAIN-KEYWORD,gputechconf
@@ -265,6 +275,24 @@ payload:
   # > Google Play 修正
   - DOMAIN,android.clients.google.com
   - DOMAIN,connectivitycheck.gstatic.com
+
+  # > Goole Play
+  - DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+  - DOMAIN-SUFFIX,services.googleapis.cn
+
+  # > ChatGPT
+  - DOMAIN-SUFFIX,ai.com
+  - DOMAIN-SUFFIX,openai.com
+
+# > CDN & API
+  - DOMAIN,chat.openai.com.cdn.cloudflare.net
+  - DOMAIN,openaiapi-site.azureedge.net
+  - DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+  - DOMAIN,openaicomproductionae4b.blob.core.windows.net
+  - DOMAIN,production-openaicom-storage.azureedge.net
+
+# > Sentry.io
+  - DOMAIN,o33249.ingest.sentry.io
 
   - DOMAIN-SUFFIX,0emm.com
   - DOMAIN-SUFFIX,1e100.net

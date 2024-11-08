@@ -2,6 +2,7 @@ payload:
 # Apple, Blizzard, Cisco, Microsoft, origin, PT, Steam
 # DIY
   - DOMAIN-SUFFIX,shiytian.top
+  - DOMAIN-SUFFIX,shiytian.tech
   - DOMAIN-SUFFIX,weixin.qq.com
   - DOMAIN-SUFFIX,plex.tv
   - DOMAIN-SUFFIX,plex.direct
