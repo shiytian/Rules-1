@@ -15,6 +15,9 @@ DOMAIN-SUFFIX,ctfassets.net
 DOMAIN-KEYWORD,kugou
 DOMAIN-KEYWORD,lyricsify
 DOMAIN-SUFFIX,digicert.com
+
+DOMAIN-KEYWORD,code42
+
 #Apple
 USER-AGENT,AppleNews*
 USER-AGENT,AppleTV*
