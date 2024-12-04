@@ -9,6 +9,8 @@ payload:
   - DOMAIN-SUFFIX,googlevideo.com
   - DOMAIN,youtubei.googleapis.com
   - DOMAIN-KEYWORD,youtube
+  - PROCESS-NAME,com.google.android.videos
+  - DOMAIN,androidtvlauncherxfe-pa.googleapis.com
   # > Google Play 修正
   # DOMAIN,android.clients.google.com
   # DOMAIN,connectivitycheck.gstatic.com
