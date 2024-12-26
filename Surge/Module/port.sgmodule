@@ -1,0 +1,7 @@
+#!name=端口重设
+#!desc=单IP 多用户重设端口
+
+[General]
+http-listen = 0.0.0.0:9888
+socks5-listen = 0.0.0.0:9889
+http-api = 123456@0.0.0.0:7171
