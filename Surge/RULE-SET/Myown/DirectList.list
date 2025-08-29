@@ -18,6 +18,10 @@ DOMAIN-SUFFIX,digicert.com
 
 DOMAIN-KEYWORD,code42
 
+DOMAIN-KEYWORD,1password
+DOMAIN-SUFFIX,1password.com
+DOMAIN-SUFFIX,agilebits.com
+
 #Apple
 USER-AGENT,AppleNews*
 USER-AGENT,AppleTV*
