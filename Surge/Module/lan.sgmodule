@@ -3,4 +3,5 @@
 
 [Rule]
 AND,((OR,((SUBNET,TYPE:CELLULAR), (NOT, ((OR, ((SUBNET,SSID:ASUS_F8_5G), (SUBNET,SSID:ASUS_F8_2G))))))), (IP-CIDR,192.168.2.0/24)), HomeWG, no-resolve
+AND,((OR,((SUBNET,TYPE:CELLULAR), (NOT, ((OR, ((SUBNET,SSID:CatalystAir-5G), (SUBNET,CatalystAir-2G))))))), (IP-CIDR,192.168.2.0/24)), HomeWG, no-resolve
 IP-CIDR,192.168.99.0/24, HomeWG, no-resolve
