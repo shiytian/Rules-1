@@ -1,5 +1,6 @@
 # Apple, Blizzard, Cisco, Microsoft, origin, PT, Steam
 # DIY
+
 DOMAIN-SUFFIX,shiytian.top
 DOMAIN-SUFFIX,shiytian.tech
 DOMAIN-SUFFIX,weixin.qq.com
@@ -15,6 +16,7 @@ DOMAIN-SUFFIX,ctfassets.net
 DOMAIN-KEYWORD,kugou
 DOMAIN-KEYWORD,lyricsify
 DOMAIN-SUFFIX,digicert.com
+DOMAIN-KEYWORD,1password
 
 DOMAIN-KEYWORD,code42
 
