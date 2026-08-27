@@ -384,7 +384,7 @@ payload:
   - DOMAIN-SUFFIX,mi.gdt.qq.com
   - DOMAIN-SUFFIX,btrace.qq.com
   - DOMAIN-SUFFIX,mtrace.qq.com
-  - DOMAIN-SUFFIX,oth.eve.mdt.qq.com
+  #- DOMAIN-SUFFIX,oth.eve.mdt.qq.com
   - DOMAIN-SUFFIX,pingma.qq.com
 #Bilibili Reject
   - DOMAIN-SUFFIX,cm.bilibili.com
